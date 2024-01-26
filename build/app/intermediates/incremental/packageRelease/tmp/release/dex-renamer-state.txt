@@ -1,0 +1,4 @@
+#Fri Jan 26 00:06:00 CST 2024
+base.0=/Users/mac/Desktop/Software_Project/Google playstore/1st app/Petu/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
