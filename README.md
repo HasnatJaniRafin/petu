@@ -11,10 +11,10 @@
 
 
 
-Short Description (0/80 characters):
+Short Description:
 "Discover, adore, and learn about pets with Petu 777, your pet companion app."
 
-Full Description (0/4000 characters):
+Full Description :
 "Welcome to Petu 777 Love Pets – the ultimate pet lover's paradise! Whether you're a devoted pet owner or just an animal enthusiast, our app is your one-stop destination for all things pets.
 
 Key Features:
@@ -40,4 +40,3 @@ In-depth profiles of various pet breeds.
 Daily updates with new content and features.
 Start your pet-loving journey with Petu 777 Love Pets today!"
 
-Remember to adjust the descriptions to accurately reflect the specific features and benefits of your app. The full description can be detailed and should include keywords that potential users might search for. The short description should be catchy and quickly grab attention.
